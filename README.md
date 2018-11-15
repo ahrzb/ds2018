@@ -6,8 +6,7 @@
   * Introduction([slides](https://docs.google.com/presentation/d/1ZWqLOFVlffWJXuqEmShPD7JR0BIM5gCCNI-lp4NAeEo/edit?usp=drivesdk))
   * Python Intro([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/01_python.ipynb))
 * Lecture 2:
-  * Python Continuted(notebook)
-  * NumPy(notebook)
+  * NumPy([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro.ipynb))
 
 ###  Resources
 
