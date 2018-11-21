@@ -6,7 +6,7 @@
   * Introduction([slides](https://docs.google.com/presentation/d/1ZWqLOFVlffWJXuqEmShPD7JR0BIM5gCCNI-lp4NAeEo/edit?usp=drivesdk))
   * Python Intro([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/01_python.ipynb))
 * Lecture 2:
-  * NumPy([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro.ipynb))
+  * NumPy([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro.ipynb), [solution](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro_sol.ipynb))
 
 ###  Resources
 
