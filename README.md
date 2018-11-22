@@ -7,6 +7,8 @@
   * Python Intro([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/01_python.ipynb))
 * Lecture 2:
   * NumPy([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro.ipynb), [solution](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro_sol.ipynb))
+* Lecture 3:
+  * Numpy Cont.([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_sol.ipynb), [solution](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_cont_sol.ipynb))
 
 ###  Resources
 
