@@ -9,6 +9,9 @@
   * NumPy([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro.ipynb), [solution](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_intro_sol.ipynb))
 * Lecture 3:
   * Numpy Cont.([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_sol.ipynb), [solution](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/02_numpy_cont_sol.ipynb))
+* Lecture 4:
+* Lecture 5:
+  * ML Cont.([notebook](http://nbviewer.jupyter.org/github/ahrzb/ds2018/blob/master/06_ml_cont.ipynb))
 
 ###  Resources
 
